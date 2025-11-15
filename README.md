@@ -1,4 +1,4 @@
-# DSC-212-Assignment---Karate-Club-Analysis-by-Anay-Mishra-IMS24272
+# DSC-212-Assignment---Karate-Club-Analysis-by-Akshat-Tyagi-IMS24272
 
 ## Recursive Spectral Modularity Partitioning and Centrality Analysis
 
