@@ -1,4 +1,4 @@
-# DSC-212-Assignment---Karate-Club-Analysis-by-Anay-Mishra-IMS24274
+# DSC-212-Assignment---Karate-Club-Analysis-by-Anay-Mishra-IMS24272
 
 ## Recursive Spectral Modularity Partitioning and Centrality Analysis
 
@@ -6,8 +6,8 @@ This project performs **recursive spectral modularity partitioning** to detect c
 
 ## ✍️ Author
 
-* NAME: **ANAY MISHRA**
-* ROLL NO. : **IMS24274**
+* NAME: **Akshat Tyagi**
+* ROLL NO. : **IMS24272**
 * BATCH : **BS - MS 2024**
 * COURSE INSTRUCTOR : **DR. SAPTARSHI BEJ**
 * Course: DSC212 – **MATHEMATICAL FOUNDATIONS TO DATA SCIENCE, Varsha 2025**
